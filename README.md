@@ -1,3 +1,3 @@
-# running_data_analysis
+# running-data-analysis
 
 work in progress...
